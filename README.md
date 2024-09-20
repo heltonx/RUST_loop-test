@@ -12,3 +12,7 @@ insert the content
 rustc loop.rs
 
 ./loop.exe
+
+
+note: added extra files, like while.rs. Procedure to run is the same.
+
