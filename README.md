@@ -1,6 +1,7 @@
 # RUST_loop-test
 basic loop test
 
+last update: 22/09/24
 
 tested on windows
 
