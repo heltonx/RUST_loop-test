@@ -15,5 +15,5 @@ rustc loop.rs
 ./loop.exe
 
 
-note: added extra files, like while.rs. Procedure to run is the same.
+note: added extra files, like while.rs. Procedure to run is the same
 
