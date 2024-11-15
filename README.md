@@ -3,7 +3,7 @@ basic loop test
 
 last update: 22/09/24.
 
-tested on windows
+tested on windows, will be tested in linux xubuntu soon
 
 
 notepad loop.rs
