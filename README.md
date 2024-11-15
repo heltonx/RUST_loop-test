@@ -1,7 +1,7 @@
 # RUST_loop-test
 basic loop test
 
-last update: 22/09/24
+last update: 22/09/24.
 
 tested on windows
 
@@ -15,5 +15,5 @@ rustc loop.rs
 ./loop.exe
 
 
-note: added extra files, like while.rs. Procedure to run is the same
+note: added extra files, like while.rs. Procedure to run is the same.
 
